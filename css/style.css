@@ -1,0 +1,198 @@
+
+
+.home{
+    background-color: slategray;
+    color:black;
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    padding-inline-start: 60px;
+    padding-inline-end: 60px;
+
+    
+}
+
+.contact{
+    background-color: slategray;
+    color:black;
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    margin-left:10px;
+    padding-inline-start: 60px;
+    padding-inline-end: 60px;
+}
+
+.about{
+    background-color: slategray;
+    color:black;
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    margin-left:10px;
+    padding-inline-start: 60px;
+    padding-inline-end: 60px;
+}
+
+.img{
+    position: relative;
+    top: 30px;
+    border-radius: 8px;
+    width: 900px;
+    height: 600px;
+
+}
+
+.para{
+    color:black;
+    position: absolute;
+    top:0.1px;
+    left: 920px;
+    font-family: cursive;
+    font-size: 30px;
+    
+
+}
+.para2{
+    color:darkred;
+    position: absolute;
+    top: 100px;
+    left:  920px;
+    font-family: cursive;
+    font-size: 20px;
+
+}
+.para3{
+    color:navy;
+    position: absolute;
+    top: 150px;
+    left: 920px;
+    font-family: cursive;
+    font-size: 10;
+
+}
+.para4{
+    color:black;
+    position: absolute;
+    top: 360px;
+    left: 920px;
+    font-family: cursive;
+    font-size: 10;
+}
+
+.map{
+    padding-bottom: 50px;
+    position: absolute;
+    top: 450px;
+    left: 920px;   
+}
+
+.btn1{
+    background-color: gray;
+    color:black;
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 7px;
+    padding-inline-start: 60px;
+    padding-inline-end: 60px;
+    margin-left: 410px;
+    position: relative;
+    top: 30px;
+    border-radius: 10px;
+
+
+}
+
+.btn2{
+    background-color:  gray;
+    color:black;
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 7px;
+    padding-inline-start: 70px;
+    padding-inline-end: 70px;
+    margin-left: 20px;
+    position: relative;
+    top: 30px;
+    border-radius: 10px;
+
+}
+
+.btn3{
+    background-color: gray;
+    color:black;
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 7px;
+    padding-inline-start: 70px;
+    padding-inline-end: 70px;
+    margin-left: 20px;
+    position: relative;
+    top: 30px;
+    border-radius: 10px;
+
+
+}
+
+.btn4{
+    background-color:  gray;
+    color:black;
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 7px;
+    padding-inline-start: 70px;
+    padding-inline-end: 70px;
+    margin-left: 20px;
+    position: relative;
+    top: 30px;
+    border-radius: 10px;
+
+}
+
+.ser{
+    background-color:silver;
+    color:slategray;
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 4px;
+    padding-inline-start: 5px;
+    padding-inline-end: 100px;
+    padding-left: 100px;
+    font-size: 10px;
+    margin-left: 70px;
+    position: absolute;
+    top:2px;
+    left: 1100px;
+    
+}
+
+.btn5{
+    background-color:  gray;
+    color:black;
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 2px;
+    padding-inline-start: 78px;
+    padding-inline-end: 78px;
+    margin-left: 20px;
+    position: absolute;
+    top:4px;
+    left: 250px;
+    border-radius: 10px;
+
+}
+
+.ftr{
+    background-color: rgb(44, 43, 43);
+    color: aliceblue;
+    font-size: small;
+    font-family: cursive;
+    text-align: center;
+    position: relative;
+    top: 30px;
+    
+    
+}
+
+
+
